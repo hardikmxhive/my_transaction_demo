@@ -38,7 +38,7 @@ class MyHomePageStage extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Transaction Demo',
+          'Transaction Demos',
         ),
       ),
       body: SingleChildScrollView(
